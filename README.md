@@ -2,7 +2,7 @@
 <img src='https://media1.giphy.com/media/YWUpVw86AtIbe/giphy.gif' alt='' />
 </p>
 
-### Hoy ! :heart::heart::heart:, my .ame is Jared Kunhart.
+### Hoy ! :heart::heart::heart:, my name is Jared Kunhart.
 #### I am a Full Stack Software Developer.
 
 Check out some of my awesome projects !
