@@ -6,8 +6,8 @@
 #### I am a Full Stack Software Developer.
 
 Check out some of my awesome projects !<br>
-<a href="https://vaporgamesapp.herokuapp.com/">Vapor</a> is a near pixel perfect <a href="https://store.steampowered.com/">Steam</a> clone that was extremely fun to make. <br>
-<a href="https://r1de-app.herokuapp.com/">Ride</a> is a Lyft clone that I'm still currently working on !<br>
+<a target="_blank" rel="noreferrer" href="https://vaporgamesapp.herokuapp.com/">Vapor</a> is a near pixel perfect <a target="_blank" rel="noreferrer" href="https://store.steampowered.com/">Steam</a> clone that was extremely fun to make. <br>
+<a target="_blank" rel="noreferrer" href="https://r1de-app.herokuapp.com/">Ride</a> is a Lyft clone that I'm still currently working on !<br>
 
 Skills: JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
 
