@@ -19,6 +19,4 @@ Hoy Adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
 - ⚡ Fun fact: When is a door not a door ? When it's ajar. 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jared-Kunhart&show_icons=true" vertical-align="bottom" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Kunhart" align="right" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Jared-Kunhart&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Kunhart" height="195px" align="right" />
