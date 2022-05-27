@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-Hoy adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
+Hoy Adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
 </h2>
 
 ### I am a Full Stack Software Developer. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/linkedin.com/in/jared-kunhart-307661236/)  
