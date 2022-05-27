@@ -6,7 +6,7 @@
 Hoy adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
 </h2>
 
-### I am a Full Stack Software Developer.
+### I am a Full Stack Software Developer. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/linkedin.com/in/jared-kunhart-307661236/)  
 **Check out some of my awesome projects !**<br>
 - <a href="https://vaporgamesapp.herokuapp.com/" target = "_blank">Vapor</a> is a near pixel perfect <a target="_blank" rel="noreferrer" href="https://store.steampowered.com/">Steam</a> clone that was extremely fun to make. <br>
 - <a href="https://r1de-app.herokuapp.com/" target="_blank">Ride</a> is a Lyft clone that I'm still currently working on !<br>
@@ -19,9 +19,6 @@ Hoy adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
 - ⚡ Fun fact: When is a door not a door ? When it's ajar. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jared-Kunhart)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/jared-kunhart-307661236/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Kunhart)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jared-Kunhart&show_icons=true)  
+<img src="https://github-readme-stats.vercel.app/api?username=Jared-Kunhart&show_icons=true" vertical-align="bottom" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Kunhart" align="right" />
 
