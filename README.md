@@ -10,7 +10,7 @@ Hoy Adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
 **Check out some of my awesome projects !**<br>
 - <a href="https://vaporgamesapp.herokuapp.com/" target = "_blank">Vapor</a> is a near pixel perfect <a target="_blank" rel="noreferrer" href="https://store.steampowered.com/">Steam</a> clone that was extremely fun to make. <br>
 - <a href="https://r1de-app.herokuapp.com/" target="_blank">Ride</a> is a <a target="_blank" rel="noreferrer" href="https://www.lyft.com/">Lyft</a> clone that I'm still currently working on !<br>
-- <a href="https://yelpmeobiwan.herokuapp.com/" target="_blank" rel="noreferrer">Yelp me Obi-Wan</a> is a Yelp clone. Using Yelp as a reference but using Star Wars as inspiration, I set out to make sure this Yelp clone stayed true to both reference and inspiration.
+- <a href="https://yelpmeobiwan.herokuapp.com/" target="_blank" rel="noreferrer">Yelp me Obi-Wan</a> is a <a target="_blank" rel="noreferrer" href="https://www.yelp.com/">Yelp</a> clone. Using Yelp as a reference but using Star Wars as inspiration, I set out to make sure this Yelp clone stayed true to both reference and inspiration.
 
 **Skills:** JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
 
