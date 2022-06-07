@@ -6,7 +6,7 @@
 Hoy Adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
 </h2>
 
-### I am a Full Stack Software Developer. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://linkedin.com/in/jared-kunhart-307661236)  
+### I am a Full Stack Software Developer. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://linkedin.com/in/jared-kunhart-307661236)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg' alt='angellist' height='25'>](https://angel.co/u/jared-kunhart)  
 **Check out some of my awesome projects !**<br>
 - <a href="https://vaporgamesapp.herokuapp.com/" target = "_blank">Vapor</a> is a near pixel perfect <a target="_blank" rel="noreferrer" href="https://store.steampowered.com/">Steam</a> clone that was extremely fun to make. <br>
 - <a href="https://r1de-app.herokuapp.com/" target="_blank">Ride</a> is a <a target="_blank" rel="noreferrer" href="https://www.lyft.com/">Lyft</a> clone that I'm still currently working on !<br>
