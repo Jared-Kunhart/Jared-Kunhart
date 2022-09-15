@@ -17,7 +17,7 @@ Hoy Adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
 - 🔭 I’m currently working on https://github.com/Jared-Kunhart/Ride 
 - 🌱 I’m currently learning Google Maps API integration 
 - 📫 How to reach me: Jared-Kunhart@proton.me 
-- ⚡ Fun fact: When is a door not a door ? When it's ajar. 
+- ⚡ Fun fact: All my Dad jokes are stored in a Dadabase.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jared-Kunhart&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Kunhart" height="195px" align="right" />
