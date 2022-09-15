@@ -14,9 +14,9 @@ Hoy Adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
 
 **Skills:** JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
 
-- 🔭 I’m currently working on https://github.com/Jared-Kunhart/Ride 
-- 🌱 I’m currently learning Google Maps API integration 
-- 📫 How to reach me: Jared-Kunhart@proton.me 
+- 🔭 I’m currently working on many projects including a Task Management System and contributing to Code for Chicago.
+- 🌱 I’m currently learning Google Maps API integration, Java, AWS Cloud.
+- 📫 How to reach me: Jared-Kunhart@proton.me
 - ⚡ Fun fact: All my Dad jokes are stored in a Dadabase.
 
 
