@@ -8,14 +8,14 @@ Hoy Adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
 
 ### I am a Full Stack Software Developer. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://linkedin.com/in/jared-kunhart-307661236)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg' alt='angellist' height='25'>](https://angel.co/u/jared-kunhart)  
 **Check out some of my awesome projects !**<br>
-- <a href="https://vaporgamesapp.herokuapp.com/" target = "_blank">Vapor</a> is a near pixel perfect <a target="_blank" rel="noreferrer" href="https://store.steampowered.com/">Steam</a> clone that was extremely fun to make. <br>
-- <a href="https://r1de-app.herokuapp.com/" target="_blank">Ride</a> is a <a target="_blank" rel="noreferrer" href="https://www.lyft.com/">Lyft</a> clone that I'm still currently working on !<br>
-- <a href="https://yelpmeobiwan.herokuapp.com/" target="_blank" rel="noreferrer">Yelp me Obi-Wan</a> is a <a target="_blank" rel="noreferrer" href="https://www.yelp.com/">Yelp</a> clone. Using Yelp as a reference but using Star Wars as inspiration, I set out to make sure this Yelp clone stayed true to both reference and inspiration.
+- <a href="https://vaporgamesapp.herokuapp.com/" target = "_blank">Vapor</a> is a game content store that takes creative liberties in listing and selling games as a developer. <br>
+- <a href="https://r1de-app.herokuapp.com/" target="_blank">Ride</a> is a rideshare web-based application that uses Google Maps API to find, calculate and set-up routes.<br>
+- <a href="https://yelpmeobiwan.herokuapp.com/" target="_blank" rel="noreferrer">Yelp me Obi-Wan</a> is a A Star Wars themed social media platform where you can list a business and leave reviews on businesses.
 
 **Skills:** JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
 
-- 🔭 I’m currently working on many projects including a Task Management System and contributing to Code for Chicago.
-- 🌱 I’m currently learning Google Maps API integration, Java, AWS Cloud.
+- 🔭 I’m currently contributing to Code for Chicago and working as a Software Developer.
+- 🌱 I’m currently learning, C#, AWS, GCP, and Azure DevOps.
 - 📫 How to reach me: Jared-Kunhart@proton.me
 - ⚡ Fun fact: All my Dad jokes are stored in a Dadabase.
 
