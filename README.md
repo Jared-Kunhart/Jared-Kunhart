@@ -9,8 +9,8 @@ Hoy Adventurer ! :heart::heart::heart:, my name is Jared Kunhart !
 ### I am a Full Stack Software Developer. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://linkedin.com/in/jared-kunhart-307661236)
 **Check out some of my awesome projects !**<br>
 - <a href="https://vaporgamesapp.herokuapp.com/" target = "_blank">Vapor</a> is a game content store that takes creative liberties in listing and selling games as a developer. <br>
-- <a href="https://r1de-app.herokuapp.com/" target="_blank">Ride</a> is a rideshare web-based application that uses Google Maps API to find, calculate and set-up routes.<br>
-- <a href="https://yelpmeobiwan.herokuapp.com/" target="_blank" rel="noreferrer">Yelp me Obi-Wan</a> is a a Star Wars themed social media platform where you can list a business and leave reviews on businesses.
+- <a href="https://ride-app.onrender.com/" target="_blank">Ride</a> is a rideshare web-based application that uses Google Maps API to find, calculate and set-up routes.<br>
+- <a href="https://yelpmeobiwan.onrender.com/" target="_blank" rel="noreferrer">Yelp me Obi-Wan</a> is a a Star Wars themed social media platform where you can list a business and leave reviews on businesses.
 - <a href="https://input.onrender.com/" target="_blank" rel="noreferrer">Input</a> is for users who like to review games and to discuss stories related to gaming.
 
 **Skills:** JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
