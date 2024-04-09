@@ -14,7 +14,7 @@ Hoy Adventurer! :heart::heart::heart:, my name is Jared Kunhart!
 - <a href="https://yelpmeobiwan.onrender.com/" target="_blank" rel="noreferrer">Yelp me Obi-Wan</a> is a a Star Wars themed social media platform where you can list a business and leave reviews on businesses.
 - <a href="https://input.onrender.com/" target="_blank" rel="noreferrer">Input</a> is for users who like to review games and to discuss stories related to gaming.
 
-
+**Related Information**
 - 🔭 I’ve volunteered for Code for Chicago (now Code312) and led development on the project Animal Rescue Trends.
 - 📫 How to reach me: JaredLK@pm.me
 - ⚡ Fun fact: All my Dad jokes are stored in a Dadabase.
