@@ -16,8 +16,6 @@ Hoy Adventurer! :heart::heart::heart:, my name is Jared Kunhart!
 
 **Related Information**
 - 🔭 I’ve volunteered for Code for Chicago (now Code312) and led development on the project Animal Rescue Trends.
-- 📫 How to reach me: JaredLK@pm.me
 - ⚡ Fun fact: All my Dad jokes are stored in a Dadabase.
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jared-Kunhart&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Kunhart" height="195px" align="right" />
