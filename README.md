@@ -13,9 +13,3 @@ Hoy Adventurer! :heart::heart::heart:, my name is Jared Kunhart!
 - <a href="https://ride-app.onrender.com/" target="_blank">Ride</a> is a rideshare web-based application that uses Google Maps API to find, calculate and set-up routes.<br>
 - <a href="https://yelpmeobiwan.onrender.com/" target="_blank" rel="noreferrer">Yelp me Obi-Wan</a> is a a Star Wars themed social media platform where you can list a business and leave reviews on businesses.
 - <a href="https://input.onrender.com/" target="_blank" rel="noreferrer">Input</a> is for users who like to review games and to discuss stories related to gaming.
-
-**Related Information**
-- 🔭 I’ve volunteered for Code for Chicago (now Code312) and led development on the project Animal Rescue Trends.
-- ⚡ Fun fact: All my Dad jokes are stored in a Dadabase.
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jared-Kunhart&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jared-Kunhart" height="195px" align="right" />
