@@ -6,7 +6,7 @@
 Hoy Adventurer! :heart::heart::heart:, my name is Jared Kunhart!
 </h2>
 
-### I am a Full Stack Software Engineer. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://linkedin.com/in/jared-kunhart-307661236)
+### Software Engineer. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://linkedin.com/in/jared-kunhart-307661236)
 **Projects**<br>
 - <a href="https://code312-rescue-trends-2659be78e6b4.herokuapp.com/" target="_blank">Animal Rescue Trends</a> is an interactive data dashboard that can be used to analyze how different dog characteristics may correlate with average length of stay in a shelter prior to adoption. <br>
 - <a href="https://vaporgamesapp.herokuapp.com/" target="_blank">Vapor</a> is a game content store that takes creative liberties in listing and selling games as a developer. <br>
